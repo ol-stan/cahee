@@ -697,7 +697,8 @@ h1 {
         margin: 0 auto;
     }
 
-    .img-raspberries {
+    .img-raspberries,
+    .blog__block, .form {
         max-width: 100%;
     }
 
@@ -705,4 +706,9 @@ h1 {
     .button {
         margin: 10px auto;
     }
+
+    .scroll {
+        display: none;
+    }
+
 }
